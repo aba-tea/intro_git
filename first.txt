@@ -1,4 +1,4 @@
 Gitの練習
 基本的な流れを学習する
-Test
-Test
+git add
+git commit
